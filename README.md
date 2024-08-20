@@ -17,7 +17,8 @@
 - Desenvolvedor Web
 <br>
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GsantosBr12&theme=dark&show_icons=true)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GsantosBr12&theme=tokyonight&show_icons=true)
+
 
 <br>
 
