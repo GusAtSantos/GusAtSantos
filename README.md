@@ -9,10 +9,12 @@
 Programador web mobile, desenvolvimento de aplicações web e mobile Possuo conhecimento em [ Html, css, c#, sql, react, node.js, php laravel, typescript, javascript, swift, kotlin] e sou apaixonado por criar soluções inovadoras e eficientes. Experiência em todo o ciclo de desenvolvimento, desde a concepção até o lançamento e manutenção de projetos. Busco uma oportunidade em uma empresa desafiadora para aplicar meus conhecimentos e contribuir para o crescimento da equipe.
 </p>
 <br>
+
 - Desenvolvedor Front-End
 - Desenvolvedor Back-End
 - Desenvolvedor Mobile
 - Desenvolvedor Web
+  
 <br>
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GsantosBr12&theme=tokyonight&show_icons=true)
@@ -24,8 +26,6 @@ Programador web mobile, desenvolvimento de aplicações web e mobile Possuo conh
   
 - **Languages**:
 
-<br>
-  
   ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)   
@@ -40,23 +40,20 @@ Programador web mobile, desenvolvimento de aplicações web e mobile Possuo conh
 <br>   
 
 - **Front-End Development**:
-  <br>
-  
+
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-<br>
+
 
 - **Softwares and Tools**:
-  
-  <br>
-  
+
   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
   ![Vercel]( https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)   
   ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)  
   ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
   ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
-<br>
+
 
 </p>
 <br>
