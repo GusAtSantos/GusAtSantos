@@ -1,11 +1,14 @@
 
-<h1 align="center"><b>Olá, Eu sou Gustavo Santos </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Olá, Eu sou  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Gustavo+Santos+..;Sempre+aprendendo+coisas+novas..%3C3%22"></a>
 </p>
 
-
+<br>
+<p>
+	Programador web mobile desenvolvimento de aplicações web e mobile. Possuo sólida base em [ Html, css, c#, sql, react, node.js, php laravel, typescript, javascript, swift, kotlin] e sou apaixonado por criar soluções inovadoras e eficientes. Experiência em todo o ciclo de desenvolvimento, desde a concepção até o lançamento e manutenção de projetos. Busco uma oportunidade em uma empresa desafiadora para aplicar meus conhecimentos e contribuir para o crescimento da equipe.
+</p>
 <br>
 
 - Desenvolvedor Front-End
