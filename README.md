@@ -79,10 +79,3 @@ Programador web mobile, desenvolvimento de aplicações web e mobile Possuo conh
 <br>
 <div align='center'>
 </div>
-<br>
-<br>
-<br>
-<br>
----
-<br>
-Ultima edição: 19/08/2024
