@@ -7,7 +7,9 @@
 
 
 </p>
+
 <br>
+
 <p>
 Programador web mobile, desenvolvimento de aplicações web e mobile Possuo conhecimento em [ Html, css, c#, sql, react, node.js, php laravel, typescript, javascript, swift, kotlin] e sou apaixonado por criar soluções inovadoras e eficientes. Experiência em todo o ciclo de desenvolvimento, desde a concepção até o lançamento e manutenção de projetos. Busco uma oportunidade em uma empresa desafiadora para aplicar meus conhecimentos e contribuir para o crescimento da equipe.
 </p>
