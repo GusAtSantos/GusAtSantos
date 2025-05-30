@@ -12,11 +12,17 @@
 
 <br>
 
+<!--  -->
+
 <p>
+  
 Programador web mobile, desenvolvimento de aplicações web e mobile Possuo conhecimento em [ Html, css, c#, sql, react, node.js, php laravel, typescript, javascript, swift, kotlin] e sou apaixonado por criar soluções inovadoras e eficientes. Experiência em todo o ciclo de desenvolvimento, desde a concepção até o lançamento e manutenção de projetos. Busco uma oportunidade em uma empresa desafiadora para aplicar meus conhecimentos e contribuir para o crescimento da equipe.
+
 </p>
+
 <br>
 
+- Desenvolvedor FullStack
 - Desenvolvedor Front-End
 - Desenvolvedor Back-End
 - Desenvolvedor Mobile
@@ -25,6 +31,7 @@ Programador web mobile, desenvolvimento de aplicações web e mobile Possuo conh
 <br>
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GusAtSantos&theme=tokyonight&show_icons=true)
+
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
